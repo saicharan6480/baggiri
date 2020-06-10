@@ -1,4 +1,5 @@
-welccome to git
+welcome to git
 created a repository
 happy to know
 reddy
+Thank you
